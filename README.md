@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQHSQ0ssWinUAQ/profile-displaybackgroundimage-shrink_350_1400/0/1693458885323?e=1699488000&v=beta&t=LWcidTPed3tbFEJc9jV4_1UmwAkJvFy8YqSFKbyuAjQ)
+![MasterHead](https://drive.google.com/file/d/1rAEre_8EeVDt04XfF0aFi3_BEd68O9yw/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Dinindu Chamikara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
