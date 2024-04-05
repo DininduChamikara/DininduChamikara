@@ -1,4 +1,5 @@
-![MasterHead](https://drive.google.com/file/d/1rAEre_8EeVDt04XfF0aFi3_BEd68O9yw/view?usp=sharing)
+![Github Profile Banner](https://github.com/DininduChamikara/DininduChamikara/assets/73112985/3f94126f-4bfc-479e-a125-c764384f9274)
+
 
 <h1 align="center">Hi 👋, I'm Dinindu Chamikara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
